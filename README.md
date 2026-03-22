@@ -1,6 +1,6 @@
 # 🏎️ Impact Team Technical Assessment Fall 2026 🏎️
 
-<img width="1365" height="512" alt="f1datalogo" src="https://github.com/user-attachments/assets/1c89f0e6-50c3-4efd-9366-3f85bee7f108" />
+<img width="1965" height="612" alt="f1datanobg" src="https://github.com/user-attachments/assets/23d9df12-9148-4495-83c2-0db977308197" />
 
 Congratulations on reaching the next step of the application process! This phase is the most important one in the entire process, as it assesses your ability to create a web app using both tools you're familiar with and ones you probably aren't and will have to pick up as you go. This is one of the most important skills for a web developer to cultivate.
 
