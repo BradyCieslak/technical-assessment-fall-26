@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-merc-black: #00030a;
+  --color-merc-carbon: #0a0e1a;
+  --color-merc-teal: #00d2be;
+  --color-merc-teal-dim: #008577;
+  --color-merc-silver: #c8cdd4;
+  --color-merc-silver-dim: #6b7280;
+
+  --font-display: "Titillium Web", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+}
+
+@layer base {
+  html, body, #root {
+    min-height: 100%;
+    background-color: var(--color-merc-black);
+    color: var(--color-merc-silver);
+    font-family: var(--font-body);
+  }
+  body {
+    margin: 0;
+  }
+}
